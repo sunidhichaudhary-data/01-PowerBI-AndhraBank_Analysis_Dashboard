@@ -174,7 +174,7 @@ Andhra-Bank-Analysis-Dashboard/
 ├── Andhra Bank Analysis Dashboard.pbix
 ├── Dataset/
 │   └── dim_customers.csv
-│   └── dim_customers.csv
+│   └── fact_spends.csv
 ├── images/
 │   └── dashboard.png
 └── .gitignore
